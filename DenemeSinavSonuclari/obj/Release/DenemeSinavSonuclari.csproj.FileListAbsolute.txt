@@ -1,0 +1,12 @@
+D:\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\bin\DenemeSinavSonuclari.dll.config
+D:\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\bin\DenemeSinavSonuclari.dll
+D:\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\bin\DenemeSinavSonuclari.pdb
+D:\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\obj\Release\DenemeSinavSonuclari.csprojResolveAssemblyReference.cache
+D:\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\obj\Release\DenemeSinavSonuclari.dll
+D:\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\obj\Release\DenemeSinavSonuclari.pdb
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\bin\DenemeSinavSonuclari.dll.config
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\bin\DenemeSinavSonuclari.dll
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\bin\DenemeSinavSonuclari.pdb
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\obj\Release\DenemeSinavSonuclari.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\obj\Release\DenemeSinavSonuclari.dll
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\DenemeSinavSonuclari\DenemeSinavSonuclari\obj\Release\DenemeSinavSonuclari.pdb
